@@ -1,0 +1,73 @@
+{
+    "dentista": [
+      {
+        "id": 1,
+        "cliente": "Regiane",
+        "servico": "Colocação ou manuntenção de aparelho",
+        "profisional": "Carla",
+        "preco": 90.00,
+        "categoria_id": 1
+      },
+
+      {
+        "id": 1,
+        "cliente":"Marilena",
+        "servico":"Colocação ou manuntenção de aparelho", 
+        "profisional": "Carla",
+        "preco": 90.0,
+        "categoria_id": 1
+      },
+
+      {
+        "id": 2,
+        "cliente": "Laura",
+        "servico": "Consultas",
+        "profisional": "Maria",
+        "preco": 100.0,
+        "categoria_id": 2
+      },
+
+      {
+        "id": 2,
+        "cliente":"Arthur",
+        "servico": "Consultas",
+        "profisional":"Maria",
+        "preco": 100.0,
+        "categoria_id": 2
+      },
+
+      {
+        "id":3,
+        "cliente":"Luiza",
+        "servico": "Emergencia",
+        "profisional":"Fernanda",
+        "preco": 120.0,
+        "categoria_id": 3
+      },
+
+      {
+        
+        "id": 3,
+        "cliente": "Paulo José",
+        "servico": "Emergencia",
+        "profisional": "Fernanda",
+        "preco": 120.0,
+        "categoria_id": 3
+      }
+    ],
+    "categorias": [
+      {
+        "id": 1,
+        "profissional": "Carla"
+      },
+      {
+        "id": 2,
+        "profissional": "Maria"
+      },
+
+      {
+        "id": 3,
+        "profissional":"Fernanda"
+      }
+    ]
+  }
